@@ -1,0 +1,3 @@
+#!/bin/bash
+fname=$'\\*\\\'"Best School"\\\'\\*$\\?\\*\\*\\*\\*\\*:)'
+printf 'Best School\n' > "$fname"
